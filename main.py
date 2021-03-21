@@ -1,5 +1,5 @@
 # Basic calculator from python
-import functions
+
 num1 = input('Enter 1st Digit: ')
 op = input('Enter math operator: ')
 num2 = input('Enter 2nd Digit: ')
@@ -22,4 +22,4 @@ elif op == '%':
     print('The result of Modulo: ', result)
 else:
     print('Invalid inputs!')
-    print(functions.name)
+    
