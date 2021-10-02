@@ -3,4 +3,4 @@ This repository contains various python packages & code samples implementation t
 
 Code samples / Py scripts with packages:
   1. basic Python calculator
-  2. Python googlesearch package  
+  2. Python googlesearch package  (https://pypi.org/project/googlesearch-python/)
