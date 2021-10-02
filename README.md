@@ -3,7 +3,5 @@ This repository contains various python packages & code samples implementation t
 
 Code samples:
   1. basic Python calculator
-
-
 Py scripts with packages:
   2. Python googlesearch package 
