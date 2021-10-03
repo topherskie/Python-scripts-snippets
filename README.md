@@ -7,3 +7,4 @@ Code samples / Py scripts with packages:
   3. Python chat automation -> (https://pyautogui.readthedocs.io/en/latest/)
   4. Python screenshot script -> (https://pyautogui.readthedocs.io/en/latest/)
   5. Python keylogger script -> (https://pypi.org/project/pynput/)
+  6. Python get Mac ID and Ip address -> (built-in python functions)
