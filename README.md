@@ -9,3 +9,4 @@ Code samples / Py scripts with packages:
   5. Python keylogger script -> (https://pypi.org/project/pynput/)
   6. Python get Mac ID and Ip address -> (built-in python functions)
   7. Python database XAMMP fetch insert script -> (https://www.apachefriends.org/index.html)
+  8. Python requests module -> (https://docs.python-requests.org/en/latest/)
