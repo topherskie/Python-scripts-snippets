@@ -8,3 +8,4 @@ Code samples / Py scripts with packages:
   4. Python screenshot script -> (https://pyautogui.readthedocs.io/en/latest/)
   5. Python keylogger script -> (https://pypi.org/project/pynput/)
   6. Python get Mac ID and Ip address -> (built-in python functions)
+  7. Python database XAMMP fetch * insert script -> (https://www.apachefriends.org/index.html)
